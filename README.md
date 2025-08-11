@@ -150,5 +150,3 @@ releasing work publicly on the Web.
 - Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
   match the GitHub UI
 
-
-vless://08dab18c-5f39-4e86-a3a4-c6587e796354@185.174.137.205:443?type=tcp&security=reality&pbk=a5r7mXMfl59aJ4Z-fiCHi4DoTLhGwRbj4k92M3cYiWE&fp=chrome&sni=wikiportal.su&sid=ee2769a2&spx=%2F#Igor
